@@ -15,7 +15,7 @@ from xgboost import XGBClassifier
 #  initialize the OpenAI client with GROQ API
 client = OpenAI(
     base_url = "https://api.groq.com/openai/v1",
-    api_key ="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"
+    api_key =
 ""
 )
 
